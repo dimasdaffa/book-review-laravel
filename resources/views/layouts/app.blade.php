@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Book Reviews</title>
-  <script src="https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio"></script>
+  <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
 
   {{-- blade-formatter-disable --}}
   <style type="text/tailwindcss">
